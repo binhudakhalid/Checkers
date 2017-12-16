@@ -24,8 +24,8 @@ public class CheckersGUI extends JFrame {
 	private CheckersGame game;
 	private BoardLayeredPane boardPanel;
 
-	ImageIcon redChecker = new ImageIcon("c:\\start3.gif");
-	ImageIcon blueChecker = new ImageIcon("c:\\start4.gif");
+	ImageIcon redChecker = new ImageIcon("start3.gif");
+	ImageIcon blueChecker = new ImageIcon("start4.gif");
 
 	private int currentPlayer = 0;
 
